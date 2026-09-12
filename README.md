@@ -1,9 +1,11 @@
+<!-- 💠 README Futurista y Profesional creado para JUNIOR-21-21 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=150&section=header&text=JUNIOR-21-21&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Ingeniero%20de%20Sistemas%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=150&section=header&text=JUNIOR-21-21&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Ingeniero%20de%20Sistemas%20%7C%20Full%20Stack%20%26%20Data&descAlignY=55&descAlign=50" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=💻+Desarrollador+Full+Stack+en+formación;⚙️+Apasionado+por+la+arquitectura+de+software;🧠+Aprendiendo+tecnologías+modernas+cada+día;👨‍💻+Construyendo+sistemas+inteligentes+y+escalables" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=💻+Desarrollador+Full+Stack+en+formación;🗄️+Especialista+en+Bases+de+Datos+y+Análisis;⚙️+Apasionado+por+la+arquitectura+de+software;👨‍💻+Construyendo+sistemas+inteligentes+y+escalables" alt="Typing Animation">
 </p>
 
 <p align="center">
@@ -16,12 +18,21 @@
 
 ## 👨‍🚀 Sobre Mí
 
-¡Hola! Soy un **Estudiante de Ingeniería de Sistemas** apasionado por transformar ideas complejas en soluciones tecnológicas elegantes y funcionales. Me especializo en el desarrollo de software y aplicaciones web, buscando siempre el equilibrio entre un código limpio (backend) y una experiencia de usuario intuitiva (frontend).
+¡Hola! Soy un **Estudiante de Ingeniería de Sistemas** apasionado por transformar ideas complejas en soluciones tecnológicas elegantes y funcionales. Me especializo en el desarrollo de software y gestión de datos, buscando siempre el equilibrio entre un código limpio, bases de datos optimizadas y una experiencia de usuario intuitiva.
 
 * 🎓 **Formación:** Ingeniería de Sistemas.
-* 🚀 **Misión:** Dominar el desarrollo Full Stack y aportar valor en proyectos de impacto real.
-* 💡 **Intereses:** Arquitectura de software, diseño de bases de datos y creación de APIs.
-* 🌱 **Actualmente aprendiendo:** Mejores prácticas en Angular y arquitecturas escalables con Spring Boot.
+* 🚀 **Misión:** Dominar el desarrollo Full Stack y el análisis de datos para aportar valor en proyectos de impacto real.
+* 💡 **Intereses:** Arquitectura de software, optimización de bases de datos y creación de APIs.
+* 🌱 **Actualmente aprendiendo:** Mejores prácticas en arquitecturas escalables, análisis avanzado y automatización de procesos.
+
+---
+
+## ⚡ Áreas de Experiencia
+
+✅ **Desarrollo Web Full Stack:** Creación de sistemas responsivos conectados a bases de datos relacionales con arquitecturas limpias.<br>
+✅ **Gestión de Bases de Datos:** Diseño de esquemas, optimización de consultas (queries) y administración de motores relacionales.<br>
+✅ **Análisis de Datos:** Extracción, transformación y análisis de información para la toma de decisiones.<br>
+✅ **Seguridad e Integridad:** Generación y gestión de **Backups** (copias de seguridad) para garantizar la disponibilidad y protección de los datos.<br>
 
 ---
 
@@ -34,7 +45,13 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🗄️ Bases de Datos y Análisis
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
 ### ⚙️ Frameworks y Tecnologías
@@ -58,19 +75,19 @@
 
 ## 🚀 Proyecto Destacado: Sistema de Gestión para Restaurante
 
-Un sistema integral diseñado para optimizar el flujo de trabajo en el sector gastronómico, conectando todas las áreas operativas en tiempo real.
+Un sistema integral diseñado para optimizar el flujo de trabajo en el sector gastronómico, conectando todas las áreas operativas en tiempo real y gestionando datos de forma segura.
 
 | 🧑‍💼 Módulo | 📋 Descripción |
 | :--- | :--- |
-| **Administración** | Gestión centralizada de usuarios, control de roles y auditoría de operaciones. |
+| **Administración** | Gestión centralizada de usuarios, control de roles, auditoría de operaciones y análisis de ventas. |
 | **Atención (Mozo)** | Interfaz ágil para la toma de pedidos y envío instantáneo a la zona de preparación. |
 | **Cocina** | Panel de visualización de comandas en tiempo real para optimizar tiempos de entrega. |
-| **Caja** | Procesamiento seguro de pagos, control de mesas y generación de comprobantes. |
+| **Caja / BD** | Procesamiento seguro de pagos, generación de comprobantes y respaldos (backups) automáticos de la información. |
 
 > **Arquitectura del Proyecto:** <br>
 > 🖥️ **Frontend:** Angular + Bootstrap <br>
 > ⚙️ **Backend:** Java (Spring Boot / JSP) <br>
-> 🗄️ **Base de Datos:** MySQL
+> 🗄️ **Base de Datos:** MySQL / PostgreSQL
 
 ---
 
